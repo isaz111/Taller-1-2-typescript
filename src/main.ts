@@ -1,3 +1,4 @@
+console.log("main cargó bien");
 import { series } from "./data.js";
 import { Serie } from "./serie.js";
 

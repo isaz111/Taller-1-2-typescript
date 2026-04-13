@@ -1,3 +1,4 @@
+console.log("main cargó bien");
 import { series } from "./data.js";
 const tableBody = document.getElementById("series-body");
 const averageElement = document.getElementById("average");
